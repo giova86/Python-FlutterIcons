@@ -51,7 +51,9 @@ python generate_icons.py "Asset 4@4x.png"
 Lo script genererà:
 
 ✅ Icone per iOS in formato PNG con i nomi richiesti per l'Asset Catalog.
+
 ✅ Icone per Android nelle cartelle mipmap-*.
+
 Esempio struttura generata:
 
 ```bash
